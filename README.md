@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **mentorship for senior roles.**
 
-- 💬 Ask me about **Node.js, Containerisation, Gen AI**
+- 💬 Ask me about **Node.js, Containers, Microservices**
 
 - 📫 How to reach me **taj.aftabz@gmail.com**
 
