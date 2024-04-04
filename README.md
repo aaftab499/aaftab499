@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a building a highly scalable notification service.**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently enhancing my skills in  **Distributed Systems**
 
 - 👯 I’m looking to collaborate on **Backend/full stack opportunites**
 
